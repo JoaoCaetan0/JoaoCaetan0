@@ -11,7 +11,7 @@
 <br>
 
 ## Interests 💡
-<div align="center">
+<div align="center" style= "backgound-color: linear-gradient(to bottom, #0D1117, #161B22)">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
     &ensp;&nbsp;&emsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
